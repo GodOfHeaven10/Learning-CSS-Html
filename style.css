@@ -33,8 +33,7 @@ h1{
   height: 125px;
   width: 250px;
   border-radius: 50px;
-  justify-content: center;
-  align-items: center;
+  transform: translate(50%, 50%);
 }
 
 #clickme {
@@ -44,6 +43,5 @@ h1{
   font-size: 36px;
   font-family: "Quicksand", sans-serif;
   width: 250px;
-  justify-content: center;
-  align-items: center;
+  transform: translate(50%, 50%);
 }
