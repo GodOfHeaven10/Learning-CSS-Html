@@ -35,6 +35,7 @@ width:250px;
 height:125px;
 border-style:hidden;
 outline:none;
+transform: translate(50%, 50%);
 }
 .rectangle1
 {
