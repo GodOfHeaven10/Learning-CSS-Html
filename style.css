@@ -58,4 +58,5 @@ border-style:hidden;
 outline:none;
 width:250px;
 position:absolute;
+transform: translateY(-50%);
 }
