@@ -28,20 +28,34 @@ h1{
   justify-content: center;
 } */
 
-#rectangle1 {
-  background-color: #2600FF;
-  height: 125px;
-  width: 250px;
-  border-radius: 50px;
-  transform: translate(50%, 50%);
+.group1
+{
+position:absolute;
+width:250px;
+height:125px;
+border-style:hidden;
+outline:none;
 }
-
-#clickme {
-  color: #ffffff;
-  text-align: center;
-  vertical-align: middle;
-  font-size: 36px;
-  font-family: "Quicksand", sans-serif;
-  width: 250px;
-  transform: translate(50%, 50%);
+.rectangle1
+{
+background-color:#2600ff;
+height:125px;
+width:250px;
+border-radius:50px;
+position:absolute;
+top:-0.01px;
+left:0px;
+}
+.clickme
+{
+color:#ffffff;
+text-align:Center;
+vertical-align:middle;
+font-size:36px;
+font-family: "Quicksand", sans-serif;
+line-height:auto;
+border-style:hidden;
+outline:none;
+width:250px;
+position:absolute;
 }
