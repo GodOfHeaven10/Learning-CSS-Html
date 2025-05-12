@@ -7,9 +7,10 @@ h1{
   font-size: 40px;
   font-weight: bold;
   font-family: "Quicksand", sans-serif;
-  transform: translateX(50% auto);
+ /* transform: translateX(50%); */
   margin-top: 25px;
   text-align: center;
+  justify-content: center;
 }
 .square {
   width: 250px;
