@@ -8,3 +8,12 @@ h1{
   font-family: "Quicksand", sans-serif;
   position: center;
 }
+.square {
+  width: 250px;
+  height: 250px;
+  background: linear-gradient(hsl(0, 100, 50), hsl(210, 100, 50));
+  border-radius: 25px;
+  border-color: black;
+  border-width: 5px;
+  padding: 10px;
+}
