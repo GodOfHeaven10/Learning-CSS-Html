@@ -1,5 +1,6 @@
 body{
   background-color: hsl(210, 100%, 75%);
+  overflow-x: hidden;
 }
 h1{
   color: black;
